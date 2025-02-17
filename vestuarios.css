@@ -47,7 +47,6 @@ header {
     font-size: 30px;
     color: #beff1b;
 }
-
 section {
     background-image: radial-gradient(#070917, #0d0d0d);
     height: 100vh;
@@ -108,7 +107,7 @@ section {
                     line-height: 1em;
                     font-family: "League Gothic", sans-serif;
                     color: #ffffff;
-
+                    
                 }
 
                 & .description {
